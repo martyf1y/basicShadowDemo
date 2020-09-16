@@ -1,0 +1,21 @@
+<panel>
+    <bFill>1</bFill>
+    <radius>140</radius>
+    <center>512, 384</center>
+    <color>100, 100, 140, 255</color>
+    <circleRes>5</circleRes>
+    <screenSize>1024x768</screenSize>
+<group>
+		<kinectV2_039731540847>
+			<minDistance>500</minDistance>
+			<maxDistance>2300</maxDistance>
+			<Screen_Width>1920</Screen_Width>
+			<Screen_Height>1080</Screen_Height>
+		<Bird_Size>1.05</Bird_Size>
+			<Play_Time>7000</Play_Time>
+			<Percentage_Silhouette_Trigger>25</Percentage_Silhouette_Trigger>
+			<Random_Bird>1</Random_Bird>
+			<Pixel_multiplier>3</Pixel_multiplier>
+		</kinectV2_039731540847>
+	</group>
+</panel>
